@@ -14,3 +14,8 @@ source_metadata:
       parent: Recollection
 created_at: '2022-03-01T06:21:21.245765'
 last_modified_at: '2022-03-01T06:21:21.245767'
+statistics:
+  total_words: 671
+  total_non_words: 41
+quality:
+  non_words_ratio: 0.06
